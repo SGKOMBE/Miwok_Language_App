@@ -14,6 +14,11 @@ translated word is also provided for effective and quick learning of the languag
 ![alt text](https://github.com/SGKOMBE/Miwok_Language_App/blob/master/app/src/Common/Images/Phrases%20Activity.png "Phrases Activity Image")  
 
 ## **Android Palette**  
+<dl>
+ 	<li>OnclickListeners, Intents.</li>
+ 	<li>List View, Array Adapter.</li>
+ 	<li>OnItemClickListeners, Media Player.</li>
+</dl>
 
 ## **Credits**
 I have developed this project as a part of Udacity's Android Basics course with the resources provided by them.I have **shared** this project so that other students/developers can use it as a **reference** for learning and my **Personal Visibility**.This project can also be developed for learning any other language apart from Miwok language.Also English can be replaced with any regional language. 
