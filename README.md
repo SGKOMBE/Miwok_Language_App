@@ -16,7 +16,7 @@ translated word is also provided for effective and quick learning of the languag
 ## **Android Palette**  
 <dl>
  	<li>OnclickListeners, Intents.</li>
- 	<li>List View, Array Adapter.</li>
+ 	<li>List View, Array List, Array Adapter.</li>
  	<li>OnItemClickListeners, Media Player.</li>
 </dl>
 
