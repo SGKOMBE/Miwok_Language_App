@@ -5,6 +5,7 @@ The basic words included are some **NUMBERS**, **COLOR** names, **FAMILY MEMBERS
 Along with the translation to the Miwok word, **Pictorial Information** of translated word as well as the **Pronounciation** of 
 translated word is also provided for effective and quick learning of the language.  
 
+## **Screenshots**  
 
 ![alt text](https://github.com/SGKOMBE/Miwok_Language_App/blob/master/app/src/Common/Images/Home%20screen.png "Home Screen Image")
 ![alt text](https://github.com/SGKOMBE/Miwok_Language_App/blob/master/app/src/Common/Images/Numbers%20Activity.png "Numbers Activity Image")
